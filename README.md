@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abraham Marianjel</h1>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+developer+from+Chile;Enthusiastic+y+charismatic)](https://git.io/typing-svg)
+
 <a href="https://amarianjel.github.io/Portfolio/" target="blank">
 <img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
 </a>
