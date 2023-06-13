@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=A+passionate+developer+from+Chile;Enthusiastic+y+charismatic" alt="Typing SVG" /></a>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amarianjel&label=Profile%20views&color=0e75b6&style=flat" alt="amarianjel" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amarianjel&label=Profile%20views&color=0e75b6&style=flat" alt="amarianjel" /> </p>
 
 
 - 🌱 I’m currently learning **React, Django, AWS**
