@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abraham Marianjel</h1>
-<h3 align="center">A passionate developer from Chile</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+developer+from+Chile;Enthusiastic+y+charismatic)](https://git.io/typing-svg)
+<a href="https://amarianjel.github.io/Portfolio/" target="blank">
+<img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarianjel&label=Profile%20views&color=0e75b6&style=flat" alt="amarianjel" /> </p>
 
@@ -12,8 +15,8 @@
 
 - 📫 How to reach me **abrm.engineer@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://codepen.io/amarianjel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amarianjel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amarianjel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amarianjel" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19723542/amarianjel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amarianjel" height="30" width="40" /></a>
