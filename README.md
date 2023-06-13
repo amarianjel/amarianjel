@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://codepen.io/amarianjel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amarianjel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amarianjel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amarianjel" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/amarianjel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amarianjel" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19723542/amarianjel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amarianjel" height="30" width="40" /></a>
 <a href="https://fb.com/abraham13071993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abraham13071993" height="30" width="40" /></a>
 <a href="https://instagram.com/abr_marianjel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abr_marianjel" height="30" width="40" /></a>
 </p>
