@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://amarianjel.github.io/Portfolio/](https://amarianjel.github.io/Portfolio/)
 
-- 💬 Ask me about **Me gustan los desafios y aprender de los genios**
-
 - 📫 How to reach me **abrm.engineer@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
